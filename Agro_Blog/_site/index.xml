@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>https://beta.rstudioconnect.com/content/11424/</link>
+    <atom:link href="https://beta.rstudioconnect.com/content/11424/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Blog del Agro Argentino
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>mar., 13 oct. 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Record Farmer Selling!</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS</link>
+      <description>For someone outside Argentina that looks at prices and economics for new crop, it would not be surprising to find that farmers have already sold most of their crops. While it´s the case in countries such as Brazil and Paraguay, Argentina is the exception. Farmers dont seem to be responding to such incentives. Why? This is what we try to explain in this article.</description>
+      <category>Farmer Selling</category>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS</guid>
+      <pubDate>mar., 13 oct. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS/Images/Portada_6.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>La Niña is comming</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</link>
+      <description>No news that a La Niña cicle has stablished and that it will last during the south hemisfere summer. While it´s known that yields tend to be below average, some questions arise: |
+* What can we expect based on recent history?
+* Which regions will suffer the most?</description>
+      <category>Production</category>
+      <category>Climate</category>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</guid>
+      <pubDate>mar., 13 oct. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO/Images/Portada.png" medium="image" type="image/png" width="1100" height="800"/>
+    </item>
+    <item>
+      <title>Farmer Selling &amp; Devaluation</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-10-FS-Devaluation</link>
+      <description>Macro in ARG is very relevant at this stage when beyond fundamentals being very negative, we have no resources to extend the life cycle (before it was huge central bank reserves, public money available and then it was a change in government). Now is just another 3 more years of a populist government with no resources left.</description>
+      <category>Macro</category>
+      <category>Farmer Selling</category>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-10-FS-Devaluation</guid>
+      <pubDate>lun., 12 oct. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-10-FS-Devaluation/Images/Portada.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Bienvenidos al Blog</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/welcome</link>
+      <description>Welcome to our new blog, enjoy la sarasa of my blog. We hope you enjoy reading what we have to say!</description>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/welcome</guid>
+      <pubDate>lun., 12 oct. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>

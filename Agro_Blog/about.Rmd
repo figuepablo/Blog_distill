@@ -1,0 +1,9 @@
+---
+title: "About this blog"
+description: |
+  Cosas que encuentro interesantes del sector Agrícola Argentino
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
