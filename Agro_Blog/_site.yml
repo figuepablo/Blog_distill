@@ -2,7 +2,7 @@ name: "Agro_Blog"
 title: "My Blog"
 description: |
   Blog del Agro Argentino
-output_dir: "_site"
+output_dir: "."
 navbar:
   logo: cirrus.png
   right:
