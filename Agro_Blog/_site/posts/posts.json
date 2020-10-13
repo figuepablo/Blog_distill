@@ -70,13 +70,13 @@
         "url": "https://example.com/norajones"
       }
     ],
-    "date": "2020-09-15",
+    "date": "2020-10-09",
     "categories": [
       "Farmer Selling"
     ],
     "contents": "\r\n\r\nContents\r\nHighlights/Summary\r\n\r\n\r\nbody {\r\ntext-align: justify}\r\n\r\n\r\n.d-toc-header {\r\n  font-size: 1.5rem;\r\n}\r\n\r\n.d-toc {\r\n  font-size: 2.0rem\r\n}\r\n\r\n\r\n\r\n\r\nHighlights/Summary\r\n\r\n\r\n\r\n",
     "preview": "posts/2020-10-05-Low-FS/Images/Portada_6.jpg",
-    "last_modified": "2020-10-12T21:57:06-03:00",
+    "last_modified": "2020-10-12T21:58:58-03:00",
     "input_file": "2020-10-05-Low-FS.utf8.md"
   }
 ]
