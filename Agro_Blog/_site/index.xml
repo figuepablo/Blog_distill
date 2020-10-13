@@ -19,19 +19,6 @@
       <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS/Images/Portada_6.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
-      <title>La Niña is comming</title>
-      <dc:creator>Pablo Figueroa</dc:creator>
-      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</link>
-      <description>No news that a La Niña cicle has stablished and that it will last during the south hemisfere summer. While it´s known that yields tend to be below average, some questions arise: |
-* What can we expect based on recent history?
-* Which regions will suffer the most?</description>
-      <category>Production</category>
-      <category>Climate</category>
-      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</guid>
-      <pubDate>mar., 13 oct. 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO/Images/Portada.png" medium="image" type="image/png" width="1100" height="800"/>
-    </item>
-    <item>
       <title>Farmer Selling &amp; Devaluation</title>
       <dc:creator>Pablo Figueroa</dc:creator>
       <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-10-FS-Devaluation</link>
@@ -50,6 +37,19 @@
       <guid>https://beta.rstudioconnect.com/content/11424/posts/welcome</guid>
       <pubDate>lun., 12 oct. 2020 00:00:00 +0000</pubDate>
       <media:content url="https://beta.rstudioconnect.com/content/11424/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>La Niña is comming</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</link>
+      <description>No news that a La Niña cicle has stablished and that it will last during the south hemisfere summer. While it´s known that yields tend to be below average, some questions arise: |
+* What can we expect based on recent history?
+* Which regions will suffer the most?</description>
+      <category>Production</category>
+      <category>Climate</category>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</guid>
+      <pubDate>vie., 09 oct. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO/Images/Portada.png" medium="image" type="image/png" width="1100" height="800"/>
     </item>
   </channel>
 </rss>

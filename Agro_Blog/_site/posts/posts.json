@@ -19,28 +19,6 @@
     "input_file": {}
   },
   {
-    "path": "posts/2020-10-12-ENSO/",
-    "title": "La Niña is comming",
-    "description": "No news that a La Niña cicle has stablished and that it will last during the south hemisfere summer. While it´s known that yields tend to be below average, some questions arise: |\n* What can we expect based on recent history?\n* Which regions will suffer the most?",
-    "author": [
-      {
-        "name": "Pablo Figueroa",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2020-10-13",
-    "categories": [
-      "Production",
-      "Climate"
-    ],
-    "contents": "\r\n\r\nContents\r\nHighlights/Summary\r\n\r\n\r\nbody {\r\ntext-align: justify}\r\n\r\n\r\n.d-toc-header {\r\n  font-size: 1.5rem;\r\n}\r\n\r\n.d-toc {\r\n  font-size: 2.0rem\r\n}\r\n\r\n\r\n\r\n\r\nHighlights/Summary\r\n\r\n\r\n\r\n",
-    "preview": "posts/2020-10-12-ENSO/Images/Portada.png",
-    "last_modified": "2020-10-12T19:10:40-03:00",
-    "input_file": {},
-    "preview_width": 1100,
-    "preview_height": 800
-  },
-  {
     "path": "posts/2020-10-10-FS-Devaluation/",
     "title": "Farmer Selling & Devaluation",
     "description": "Macro in ARG is very relevant at this stage when beyond fundamentals being very negative, we have no resources to extend the life cycle (before it was huge central bank reserves, public money available and then it was a change in government). Now is just another 3 more years of a populist government with no resources left.",
@@ -78,5 +56,27 @@
     "input_file": {},
     "preview_width": 1248,
     "preview_height": 768
+  },
+  {
+    "path": "posts/2020-10-12-ENSO/",
+    "title": "La Niña is comming",
+    "description": "No news that a La Niña cicle has stablished and that it will last during the south hemisfere summer. While it´s known that yields tend to be below average, some questions arise: |\n* What can we expect based on recent history?\n* Which regions will suffer the most?",
+    "author": [
+      {
+        "name": "Pablo Figueroa",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-10-09",
+    "categories": [
+      "Production",
+      "Climate"
+    ],
+    "contents": "\r\n\r\nContents\r\nHighlights/Summary\r\n\r\n\r\nbody {\r\ntext-align: justify}\r\n\r\n\r\n.d-toc-header {\r\n  font-size: 1.5rem;\r\n}\r\n\r\n.d-toc {\r\n  font-size: 2.0rem\r\n}\r\n\r\n\r\n\r\n\r\nHighlights/Summary\r\n\r\n\r\n\r\n",
+    "preview": "posts/2020-10-12-ENSO/Images/Portada.png",
+    "last_modified": "2020-10-12T21:55:25-03:00",
+    "input_file": "2020-10-12-ENSO.utf8.md",
+    "preview_width": 1100,
+    "preview_height": 800
   }
 ]
