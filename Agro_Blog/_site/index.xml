@@ -7,17 +7,7 @@
     <description>Blog del Agro Argentino
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>mar., 13 oct. 2020 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Record Farmer Selling!</title>
-      <dc:creator>Pablo Figueroa</dc:creator>
-      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS</link>
-      <description>For someone outside Argentina that looks at prices and economics for new crop, it would not be surprising to find that farmers have already sold most of their crops. While it´s the case in countries such as Brazil and Paraguay, Argentina is the exception. Farmers dont seem to be responding to such incentives. Why? This is what we try to explain in this article.</description>
-      <category>Farmer Selling</category>
-      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS</guid>
-      <pubDate>mar., 13 oct. 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS/Images/Portada_6.jpg" medium="image" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>lun., 12 oct. 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Farmer Selling &amp; Devaluation</title>
       <dc:creator>Pablo Figueroa</dc:creator>
@@ -50,6 +40,16 @@
       <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO</guid>
       <pubDate>vie., 09 oct. 2020 00:00:00 +0000</pubDate>
       <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-12-ENSO/Images/Portada.png" medium="image" type="image/png" width="1100" height="800"/>
+    </item>
+    <item>
+      <title>Record Farmer Selling!</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS</link>
+      <description>For someone outside Argentina that looks at prices and economics for new crop, it would not be surprising to find that farmers have already sold most of their crops. While it´s the case in countries such as Brazil and Paraguay, Argentina is the exception. Farmers dont seem to be responding to such incentives. Why? This is what we try to explain in this article.</description>
+      <category>Farmer Selling</category>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS</guid>
+      <pubDate>mar., 15 sep. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-05-Low-FS/Images/Portada_6.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
