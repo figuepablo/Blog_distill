@@ -3,22 +3,22 @@
     "path": "C:/Users/figuerpa/Dropbox/Blog_distill/Agro_Blog/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1552856767",
     "contents": "",
     "dirty": false,
     "created": 1602522728793.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "5,0",
+        "cursorPosition": "4,3",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1602532069,
+    "lastKnownWriteTime": 1602551068,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1602532069549,
+    "last_content_update": 1602551068576,
     "read_only": false,
     "read_only_alternatives": []
 }
