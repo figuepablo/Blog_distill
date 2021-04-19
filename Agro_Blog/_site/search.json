@@ -6,21 +6,21 @@
       "description": "Cosas que encuentro interesantes del sector Agrícola Argentino",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-10-12T21:43:02-03:00"
+      "last_modified": "2021-04-19T02:31:41-03:00"
     },
     {
       "path": "gallery.html",
       "title": "Gallery of featured posts",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-10-12T21:43:03-03:00"
+      "last_modified": "2021-04-19T02:31:42-03:00"
     },
     {
       "path": "index.html",
-      "title": "Blog del Agro Argentino",
+      "title": "Agro_Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-10-12T21:43:06-03:00"
+      "last_modified": "2021-04-19T02:31:44-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
