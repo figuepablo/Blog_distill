@@ -20,15 +20,6 @@
       <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2020-10-10-FS-Devaluation/Images/Portada.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
-      <title>Bienvenidos al Blog</title>
-      <dc:creator>Pablo Figueroa</dc:creator>
-      <link>https://beta.rstudioconnect.com/content/11424/posts/welcome</link>
-      <description>Welcome to our new blog, enjoy la sarasa of my blog. We hope you enjoy reading what we have to say!</description>
-      <guid>https://beta.rstudioconnect.com/content/11424/posts/welcome</guid>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
       <title>Farmer Selling &amp; Devaluation</title>
       <dc:creator>Pablo Figueroa</dc:creator>
       <link>https://beta.rstudioconnect.com/content/11424/posts/test_post</link>
@@ -38,6 +29,15 @@
       <guid>https://beta.rstudioconnect.com/content/11424/posts/test_post</guid>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       <media:content url="https://beta.rstudioconnect.com/content/11424/posts/test_post/Images/Portada.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Bienvenidos al Blog</title>
+      <dc:creator>Pablo Figueroa</dc:creator>
+      <link>https://beta.rstudioconnect.com/content/11424/posts/welcome</link>
+      <description>Welcome to our new blog, enjoy la sarasa of my blog. We hope you enjoy reading what we have to say!</description>
+      <guid>https://beta.rstudioconnect.com/content/11424/posts/welcome</guid>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Record Farmer Selling!</title>
